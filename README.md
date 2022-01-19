@@ -2,7 +2,7 @@
 ### StaSiS-Net: a stacked and siamese stereo network for depth reconstruction in modern 3D laparoscopy.
 
 <p align="center">
-  <img width="900" height="400" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/visual_abstract.png?raw=true">
+  <img width="1000" height="400" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/visual_abstract.png?raw=true">
 </p>
 
 
@@ -33,4 +33,4 @@ In the meantime we update the repository both the code and the dataset are avail
 **Licence**
 The same of the Medical Image Analysis - Journals | Elsevier
 
-This work is supported by the Artificial Intelligence departement DISA-MIS, NeuRoNe Lab (University of Salerno - IT) and IRCAD (Research Institute against Digestive Cancer)
+This work is supported by the Artificial Intelligence departement DISA-MIS, NeuRoNe Lab (University of Salerno - IT) and IRCAD (Research Institute against Digestive Cancer - Strasbourg - FR)
