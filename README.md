@@ -13,9 +13,9 @@ for depth estimation in modern 3D laparoscopy - Bardozzo F., Collins T., Hostett
 
 
 
-![Deep depth reconstruction](https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/gh_example.png?raw=true)
+ 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/gh_example.png?raw=true">
+  <img width="300" height="700" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/gh_example.png?raw=true">
 </p>
 
 
