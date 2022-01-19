@@ -8,25 +8,17 @@ Accurate and real-time methodologies for a non-invasive three-dimensional repres
 This repository contains a part of the Supplementary Material related to the paper: StaSiS-Net: a stacked and siamese stereo network 
 for depth estimation in modern 3D laparoscopy - Bardozzo F., Collins T., Hostettler A., Forgione A. and Tagliaferri R.
 
-
-
-
-
-
- 
-<p align="center">
-  <img width="300" height="700" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/gh_example.png?raw=true">
-</p>
-
-
-
-
-
-
 For more information, refer to the paper and its PDF supplement. However, additional samples and examples from our simulated dataset of internal surfaces are linked [here](https://drive.google.com/drive/folders/12Q3qrlFGaBd6R2wcISjx-XgN9t5WwXfe).  Further, it is provided the 3D model with camera intrinsics used for simulation.  
 
 For a visual quality assessment, on this [YouTube video](https://www.youtube.com/watch?v=TiX3eXXbcbQ) 
 some 3D reconstructions on simulated and real videos are provided.
+
+
+<p align="center">
+  <img width="600" height="700" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/gh_example.png?raw=true">
+</p>
+
+
 
 
 In the meantime we update the repository both the code and the dataset are available upon request 
