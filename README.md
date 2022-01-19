@@ -2,7 +2,7 @@
 ### StaSiS-Net: a stacked and siamese stereo network for depth reconstruction in modern 3D laparoscopy.
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/visual_abstract.png?raw=true">
+  <img width="900" height="400" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/visual_abstract.png?raw=true">
 </p>
 
 
