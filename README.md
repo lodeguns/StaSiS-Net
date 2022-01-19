@@ -28,4 +28,4 @@ In the meantime we update the repository both the code and the dataset are avail
 **Licence**
 The same of the Medical Image Analysis - Journals | Elsevier
 
-This work is supported by the Artificial Intelligence departement of the University of Navarra - UPNA (SP) and by the DISA-MIS department, NeuRoNe Lab (University of Salerno - IT).
+This work is supported by the Artificial Intelligence departement DISA-MIS, NeuRoNe Lab (University of Salerno - IT) and IRCAD (Research Institute against Digestive Cancer)
