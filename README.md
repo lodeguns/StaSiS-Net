@@ -11,7 +11,7 @@ Accurate and real-time methodologies for a non-invasive three-dimensional repres
 
 ### Supplementary Materials
 This repository contains a part of the Supplementary Material related to the paper: StaSiS-Net: a stacked and siamese stereo network 
-for depth estimation in modern 3D laparoscopy - Bardozzo F., Collins T., Hostettler A., Forgione A. and Tagliaferri R.
+for depth estimation in modern 3D laparoscopy - Bardozzo F., Collins T., Hostettler A., Forgione A. and Tagliaferri R. DOI https://doi.org/10.1016/j.media.2022.102380
 
 For more information, refer to the paper and its PDF supplement. However, additional samples and examples from our simulated dataset of internal surfaces are linked [here](https://drive.google.com/drive/folders/12Q3qrlFGaBd6R2wcISjx-XgN9t5WwXfe).  Further, it is provided the 3D model with camera intrinsics used for simulation.  
 
@@ -29,6 +29,20 @@ some 3D reconstructions on simulated and real videos are provided.
 In the meantime we update the repository both the code and the dataset are available upon request 
 (Dr. Francesco Bardozzzo - fbardozzo at unisa dot it).
 
+** How to cite this paper **
+
+```
+@article{Bardozzo2022stasis,
+title = {StaSiS-Net: a stacked and siamese disparity estimation network for depth reconstruction in modern 3D laparoscopy.},
+journal = {Medical Image Analysis},
+pages = {102380},
+year = {2022},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2022.102380},
+url = {https://www.sciencedirect.com/science/article/pii/S1361841522000329},
+author = {Francesco Bardozzo and Toby Collins and Antonello Forgione and Alexandre Hostettler and Roberto Tagliaferri}
+}
+```
 
 **Licence**
 The same of the Medical Image Analysis - Journals | Elsevier
