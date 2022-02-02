@@ -29,7 +29,7 @@ some 3D reconstructions on simulated and real videos are provided.
 In the meantime we update the repository both the code and the dataset are available upon request 
 (Dr. Francesco Bardozzzo - fbardozzo at unisa dot it).
 
-** How to cite this paper **
+**How to cite this paper**
 
 ```
 @article{Bardozzo2022stasis,
