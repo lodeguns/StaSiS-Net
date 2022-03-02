@@ -6,6 +6,10 @@ Francesco Bardozzo and Toby Collins and Antonello Forgione and Alexandre Hostett
 Medical Image Analysis - 2022 - https://doi.org/10.1016/j.media.2022.102380
 https://www.sciencedirect.com/science/article/pii/S1361841522000329
 
+Download the files here: https://drive.google.com/drive/folders/1_atwJnYU61aGYjrKrhh8s32mgfpzYdhh?usp=sharing
+
+> python3 run_stasis.py
+
 Thank you!
 """
 
@@ -18,6 +22,7 @@ from tensorflow.compat.v1 import InteractiveSession
 config = ConfigProto()
 config.gpu_options.allow_growth = True
 session = InteractiveSession(config=config)
+
 import tensorflow as tf
 #Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 5300 MB memory) -
 # > physical GPU (device: 0, name: GeForce RTX 2060, pci bus id: 0000:01:00.0, compute capability: 7.5)
@@ -37,9 +42,9 @@ parser = argparse.ArgumentParser(description='Stasis-Net - Disparity Estimation 
 parser.add_argument('--input_height',              type=int,   help='input height', default=192)
 parser.add_argument('--input_width',               type=int,   help='input width', default=384)
 
-parser.add_argument('--out_dir',                    type=str, help='save_predictions', default="./run_stasis/output/")
-parser.add_argument('--input_dir_left',             type=str, help='input dir L image', default="./run_stasis/input/L/")
-parser.add_argument('--input_dir_right',            type=str, help='input dir R image', default="./run_stasis/input/R/")
+parser.add_argument('--out_dir',                   type=str, help='save_predictions', default="./run_stasis/output/")
+parser.add_argument('--input_dir_left',            type=str, help='input dir L image', default="./run_stasis/input/L/")
+parser.add_argument('--input_dir_right',           type=str, help='input dir R image', default="./run_stasis/input/R/")
 
 parser.add_argument('--alpha1',                    type=float, help='alpha1', default=0.1)
 parser.add_argument('--alpha2',                    type=float, help='alpha2', default=0.4)
