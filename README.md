@@ -1,5 +1,5 @@
 # StaSiS-Net
-### StaSiS-Net: a stacked and siamese stereo network for depth reconstruction in modern 3D laparoscopy.
+### StaSiS-Net: a stacked and siamese disparity estimation network for depth reconstruction in modern 3D laparoscopy.
 
 <p align="center">
   <img width="1000" height="400" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/visual_abstract.png?raw=true">
