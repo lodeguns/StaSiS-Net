@@ -1,10 +1,11 @@
 """"
-Please, if you use this code, you should cite this paper:
+If you use this code, you must cite this paper:
 
-StaSiS-Net: a stacked and siamese disparity estimation network for depth reconstruction in modern 3D laparoscopy.
-Francesco Bardozzo and Toby Collins and Antonello Forgione and Alexandre Hostettler and Roberto Tagliaferri
-Medical Image Analysis - 2022 - https://doi.org/10.1016/j.media.2022.102380
-https://www.sciencedirect.com/science/article/pii/S1361841522000329
+Bardozzo, Francesco, et al. "StaSiS-Net: A stacked and siamese disparity estimation network for depth reconstruction 
+in modern 3D laparoscopy." Medical Image Analysis 77 (2022): 102380.
+
+Bardozzo, Francesco, et al. "Cross X-AI: Explainable Semantic Segmentation of Laparoscopic Images in Relation 
+to Depth Estimation." 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022.
 
 Download the files here: https://drive.google.com/drive/folders/1_atwJnYU61aGYjrKrhh8s32mgfpzYdhh?usp=sharing
 
