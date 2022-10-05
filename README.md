@@ -16,6 +16,7 @@ for depth estimation in modern 3D laparoscopy - Bardozzo F., Collins T., Hostett
 For more information, refer to the paper and its PDF supplement. However, additional samples and examples from our simulated dataset of internal surfaces are linked [here](https://drive.google.com/drive/folders/12Q3qrlFGaBd6R2wcISjx-XgN9t5WwXfe).  Further, it is provided the 3D model with camera intrinsics used for simulation.  
 
 Already trained models can be tested by downloading [this repo](https://drive.google.com/drive/folders/1_atwJnYU61aGYjrKrhh8s32mgfpzYdhh?usp=sharing).
+The training script with several configurations is provided: train_stasisnet.py
 
 For a visual quality assessment, on this [YouTube video](https://www.youtube.com/watch?v=TiX3eXXbcbQ) 
 some 3D reconstructions on simulated and real videos are provided.
@@ -25,11 +26,6 @@ some 3D reconstructions on simulated and real videos are provided.
   <img width="600" height="700" src="https://github.com/lodeguns/StaSiS-Net/blob/main/imgs/gh_example.png?raw=true">
 </p>
 
-
-
-
-In the meantime we update the repository both the code and the dataset are available upon request 
-(Dr. Francesco Bardozzzo - fbardozzo at unisa dot it).
 
 **How to cite this paper**
 
