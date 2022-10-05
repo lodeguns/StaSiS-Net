@@ -1,3 +1,13 @@
+'''
+If you use this code you must cite these papers:
+Bardozzo, Francesco, et al. "StaSiS-Net: A stacked and siamese disparity estimation network for depth reconstruction 
+in modern 3D laparoscopy." Medical Image Analysis 77 (2022): 102380.
+
+Bardozzo, Francesco, et al. "Cross X-AI: Explainable Semantic Segmentation of Laparoscopic Images in Relation 
+to Depth Estimation." 2022 International Joint Conference on Neural Networks (IJCNN). IEEE, 2022.
+'''
+
+
 from __future__ import absolute_import
 from __future__ import print_function
 from tensorflow.compat.v1 import ConfigProto
