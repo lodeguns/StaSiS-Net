@@ -15,8 +15,19 @@ for depth estimation in modern 3D laparoscopy - Bardozzo F., Collins T., Hostett
 
 For more information, refer to the paper and its PDF supplement. However, additional samples and examples from our simulated dataset of internal surfaces are linked [here](https://drive.google.com/drive/folders/12Q3qrlFGaBd6R2wcISjx-XgN9t5WwXfe).  Further, it is provided the 3D model with camera intrinsics used for simulation.  
 
+**Model Prediction**
 Already trained models can be tested by downloading [this repo](https://drive.google.com/drive/folders/1_atwJnYU61aGYjrKrhh8s32mgfpzYdhh?usp=sharing).
-The training script with several configurations is provided: train_stasisnet.py
+
+**Model Training**
+The file to perform training with several configurations is provided.
+
+**Simulated Dataset**
+The simulated dataset is available upon request and for research collaborations.
+
+
+If you use this code in the training or prediction phase you must mention 
+its origin by citing the reference papers.
+
 
 For a visual quality assessment, on this [YouTube video](https://www.youtube.com/watch?v=TiX3eXXbcbQ) 
 some 3D reconstructions on simulated and real videos are provided.
@@ -39,6 +50,17 @@ issn = {1361-8415},
 doi = {https://doi.org/10.1016/j.media.2022.102380},
 url = {https://www.sciencedirect.com/science/article/pii/S1361841522000329},
 author = {Francesco Bardozzo and Toby Collins and Antonello Forgione and Alexandre Hostettler and Roberto Tagliaferri}
+}
+```
+
+```
+@inproceedings{bardozzo2022cross,
+  title={Cross X-AI: Explainable Semantic Segmentation of Laparoscopic Images in Relation to Depth Estimation},
+  author={Bardozzo, Francesco and Priscoli, Mattia Delli and Collins, Toby and Forgione, Antonello and Hostettler, Alexandre and Tagliaferri, Roberto},
+  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2022},
+  organization={IEEE}
 }
 ```
 
