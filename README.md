@@ -21,8 +21,8 @@ Already trained models can be tested by downloading [this repo](https://drive.go
 **Model Training**
 The file to perform training with several configurations is provided.
 
-**Simulated Dataset**
-The simulated dataset is available upon request and for research collaborations.
+**Simulated Dataset and Real Datasets**
+The datasets are available upon request and only for research collaborations.
 
 
 If you use this code in the training or prediction phase you must mention 
